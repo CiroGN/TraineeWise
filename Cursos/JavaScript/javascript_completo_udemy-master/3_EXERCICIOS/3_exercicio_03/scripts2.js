@@ -1,0 +1,14 @@
+console.log(8 > 5);
+console.log(8 > 9);
+console.log(8 >= 5);
+console.log(8 >= 8);
+console.log(8 >= 9);
+console.log(8 < 9);
+console.log(8 < 7);
+console.log(8 <= 9);
+console.log(8 <= 8);
+console.log(8 <= 7);
+console.log("Eric" != 'Ciro');
+console.log(8 == '8');
+console.log(8 === 8);
+console.log(8 === "8");
