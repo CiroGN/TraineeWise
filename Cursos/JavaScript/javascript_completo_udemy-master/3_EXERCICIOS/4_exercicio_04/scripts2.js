@@ -1,0 +1,6 @@
+console.log("Ciro" == "Eric" || true)
+console.log("Ciro" == "Ciro" && true)
+console.log("Ciro" == "Ciro" && "Ciro" == "Eric")
+console.log("Ciro" == "Ciro" || "Ciro" == "Eric")
+console.log(6 > 3 && !(false))
+console.log(!(6 > 9 || !(false)))
