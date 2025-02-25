@@ -1,8 +1,7 @@
 {
   "name": "05_express",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "main": "index2.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,6 +9,8 @@
   "author": "João <matheusbudkewiczbattisti@gmail.com> (http://www.horadecodar.com.br/)",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.17.1"
-  }
+    "05_express": "file:",
+    "express": "^4.21.2"
+  },
+  "description": ""
 }
