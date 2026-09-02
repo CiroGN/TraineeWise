@@ -1,0 +1,4 @@
+[submodule "Cursos/GiteGitHub/Secao03"]
+	path = Cursos/GiteGitHub/Secao03
+	url = https://github.com/CiroGN/Secao03.git
+	branch = master
